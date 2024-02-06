@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage lines-valid="20" lines-covered="2" line-rate="0.1" branches-valid="4" branches-covered="0" branch-rate="0" timestamp="1597304503285" complexity="0" version="0.1">
+  <sources>
+    <source>C:\Users\sukhendu.das\Desktop\React\fa4-react-hoopla\Hoopla_React\Hoopla_UI</source>
+  </sources>
+  <packages>
+    <class name="NavBar.js" filename="src\components\NavBar.js" line-rate="0.1" branch-rate="0">
+      <methods>
+        <method name="(anonymous_0)" hits="1" signature="()V">
+          <lines>
+            <line number="14" hits="1"/>
+          </lines>
+        </method>
+        <method name="(anonymous_1)" hits="0" signature="()V">
+          <lines>
+            <line number="61" hits="0"/>
+          </lines>
+        </method>
+        <method name="(anonymous_2)" hits="0" signature="()V">
+          <lines>
+            <line number="63" hits="0"/>
+          </lines>
+        </method>
+        <method name="(anonymous_3)" hits="0" signature="()V">
+          <lines>
+            <line number="68" hits="0"/>
+          </lines>
+        </method>
+        <method name="(anonymous_4)" hits="0" signature="()V">
+          <lines>
+            <line number="72" hits="0"/>
+          </lines>
+        </method>
+        <method name="(anonymous_5)" hits="0" signature="()V">
+          <lines>
+            <line number="75" hits="0"/>
+          </lines>
+        </method>
+        <method name="(anonymous_6)" hits="0" signature="()V">
+          <lines>
+            <line number="81" hits="0"/>
+          </lines>
+        </method>
+      </methods>
+      <lines>
+        <line number="12" hits="1" branch="false"/>
+        <line number="14" hits="1" branch="false"/>
+        <line number="55" hits="0" branch="false"/>
+        <line number="61" hits="0" branch="false"/>
+        <line number="62" hits="0" branch="false"/>
+        <line number="64" hits="0" branch="false"/>
+        <line number="65" hits="0" branch="false"/>
+        <line number="66" hits="0" branch="false"/>
+        <line number="69" hits="0" branch="true" condition-coverage="0% (0/2)"/>
+        <line number="72" hits="0" branch="false"/>
+        <line number="73" hits="0" branch="false"/>
+        <line number="75" hits="0" branch="false"/>
+        <line number="76" hits="0" branch="false"/>
+        <line number="77" hits="0" branch="false"/>
+        <line number="78" hits="0" branch="false"/>
+        <line number="79" hits="0" branch="false"/>
+        <line number="82" hits="0" branch="false"/>
+        <line number="83" hits="0" branch="true" condition-coverage="0% (0/2)"/>
+        <line number="84" hits="0" branch="false"/>
+        <line number="115" hits="0" branch="false"/>
+      </lines>
+    </class>
+  </packages>
+</coverage>

@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Register snapshot 1`] = `
+<div
+  className="mt-5 offset-4"
+  id="image"
+>
+  <img
+    src="cartEmpty.png"
+    style={
+      Object {
+        "marginTop": "120px",
+      }
+    }
+  />
+</div>
+`;
